@@ -1,0 +1,5 @@
+projectKey=Test:RestSample
+serverUrl=http://localhost:8080
+dashboardUrl=http://localhost:8080/dashboard/index/Test:RestSample
+ceTaskId=AVjAibHI32oC8p3Yxd4W
+ceTaskUrl=http://localhost:8080/api/ce/task?id=AVjAibHI32oC8p3Yxd4W
