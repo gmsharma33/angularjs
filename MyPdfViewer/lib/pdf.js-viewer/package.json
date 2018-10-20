@@ -1,0 +1,54 @@
+{
+  "_from": "pdf.js-viewer@~1.6.211",
+  "_id": "pdf.js-viewer@1.6.211",
+  "_inBundle": false,
+  "_integrity": "sha1-v0Hx24FSbVJ/4yE2OqBTN9ljuHI=",
+  "_location": "/pdf.js-viewer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "pdf.js-viewer@~1.6.211",
+    "name": "pdf.js-viewer",
+    "escapedName": "pdf.js-viewer",
+    "rawSpec": "~1.6.211",
+    "saveSpec": null,
+    "fetchSpec": "~1.6.211"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pdf.js-viewer/-/pdf.js-viewer-1.6.211.tgz",
+  "_shasum": "bf41f1db81526d527fe321363aa05337d963b872",
+  "_spec": "pdf.js-viewer@~1.6.211",
+  "_where": "C:\\Users\\sharma\\Desktop\\pdfview\\angular-pdfjs-viewer",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/legalthings/pdf.js-dist/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "uglifycss": "0.0.25"
+  },
+  "deprecated": false,
+  "description": "Compiled version of pdf.js",
+  "devDependencies": {
+    "css-prefix": "git+https://github.com/moesjarraf/css-prefix.git#0.0.2+moesjarraf.3",
+    "grunt": "^0.4.5"
+  },
+  "homepage": "https://github.com/legalthings/pdf.js-dist#readme",
+  "keywords": [
+    "pdf"
+  ],
+  "license": "Apache-2.0",
+  "main": "pdf.js",
+  "name": "pdf.js-viewer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legalthings/pdf.js-dist.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.6.211"
+}
